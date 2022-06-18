@@ -5,7 +5,8 @@ CI/CD pipelines, open-source technologies, and Cloud services. I'm looking for a
 and challenging opportunity as a DevOps engineer.
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-hassan-097) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://linkedin.com/in/mostafa-hassan-097) 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafahassan097@gmail.com) 
 
