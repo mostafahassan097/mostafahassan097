@@ -1,8 +1,9 @@
 # 💫About Me :
-A highly-skilled and motivated DevOps engineer, I’m a Certified Kubernetes Administrator and
-AWS Certified Cloud Practitioner with a year of hands-on experience managing DevOps tools,
-CI/CD pipelines, open-source technologies, and Cloud services. I'm looking for a competitive
-and challenging opportunity as a DevOps engineer.
+Experienced DevOps Engineer with a strong background in managing CI/CD pipelines, configuring
+cloud environments, and implementing infrastructure as code. Skilled in using tools such as K8s, Docker,
+and Terraform, and proficient in handling cloud platforms like AWS. Collaborates effectively with
+cross-functional Agile teams using frameworks like Scrum and Kanban to deliver exceptional results.
+Committed to meeting project deadlines and adding value to any organization.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
